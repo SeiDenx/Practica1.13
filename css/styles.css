@@ -1,0 +1,28 @@
+html {
+    background-color: bisque;
+}
+
+#cabecera {
+    color: chocolate;
+    text-align: center;
+}
+
+p.carta {
+    text-align: left;
+
+
+}
+
+p.cafe {
+    text-align: center;
+
+}
+
+p.contacto {
+    text-align: right;
+
+}
+
+footer {
+    clear: both;
+}
