@@ -13,6 +13,7 @@ body {
 
 p.carta {
     text-align: left;
+    padding-left: 20px;
 }
 
 p.cafe {
@@ -21,6 +22,7 @@ p.cafe {
 
 p.contacto {
     text-align: right;
+    padding-right: 20px;
 }
 
 .menu {
