@@ -61,6 +61,12 @@ p.red_min {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.img_cafe {
+    display:block;
+    margin:auto;
+    padding-bottom: 40px;
+}
+
 footer {
     clear: both;
     text-align: center;
@@ -68,6 +74,7 @@ footer {
     color: cornsilk;
     padding-top: 20px;
     padding-bottom: 20px;
+    margin-top: 0px;
 }
 
 footer a {
